@@ -1,0 +1,17 @@
+exports.LINE_CHANNEL_ID = process.env.LINE_CHANNEL_ID;
+exports.LINE_CHANNEL_SECRET = process.env.LINE_CHANNEL_SECRET;
+exports.LINE_CHANNEL_ACCESS_TOKEN = process.env.LINE_CHANNEL_ACCESS_TOKEN;
+exports.LINE_ADMIN_USER_ID = process.env.LINE_ADMIN_USER_ID;
+exports.APIAI_CLIENT_ACCESS_TOKEN = process.env.APIAI_CLIENT_ACCESS_TOKEN;
+exports.RN_USER = process.env.RN_USER;
+exports.RN_PASSWORD = process.env.RN_PASSWORD;
+exports.RN_HOSTNAME = process.env.RN_HOSTNAME;
+exports.RN_WSDL = process.env.RN_WSDL;
+exports.RN_PRODUCT = process.env.RN_PRODUCT;
+exports.RN_CATEGORY = process.env.RN_CATEGORY;
+exports.MEMORY_RETENTION = process.env.MEMORY_RETENTION;
+exports.FAQ_MODE = process.env.FAQ_MODE;
+exports.FAQ_CONFIRM_AUTO_LEARN = process.env.FAQ_CONFIRM_AUTO_LEARN;
+exports.GOOGLE_PROJECT_ID = process.env.GOOGLE_PROJECT_ID;
+exports.AUTO_TRANSLATION = process.env.AUTO_TRANSLATION;
+exports.BOT_ID = process.env.BOT_ID;
